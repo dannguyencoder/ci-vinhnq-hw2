@@ -3,13 +3,13 @@ package game.bases;
 /**
  * Created by NHEM on 16/07/2017.
  */
-public class Contraints {
+public class Constraints {
     float top;
     float bottom;
     float left;
     float right;
 
-    public Contraints(float top, float bottom, float left, float right) {
+    public Constraints(float top, float bottom, float left, float right) {
         this.top = top;
         this.bottom = bottom;
         this.left = left;
